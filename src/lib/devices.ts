@@ -61,7 +61,7 @@ export const DEVICES: [string, Display][] = [
   ["ANBERNIC RG ARC-S", {size: 4, ar: {x: 4, y: 3}}],
   ["ANBERNIC RG405V", {size: 4, ar: {x: 4, y: 3}}],
   ["ANBERNIC RG Nano", {size: 1.54, ar: {x: 1, y: 1}}],
-  ["ANBERNIC RG353PS", {size: 3.5, ar: {x: 4, y: 3}}],
+  ["Retroid Pocket Classic", {size: 3.92, ar: {x: 31, y: 27}}],
   ["ANBERNIC RG405M", {size: 4, ar: {x: 4, y: 3}}],
   ["ANBERNIC RG35XX", {size: 3.5, ar: {x: 4, y: 3}}],
   ["ANBERNIC RG505", {size: 4.95, ar: {x: 16, y: 9}}],
